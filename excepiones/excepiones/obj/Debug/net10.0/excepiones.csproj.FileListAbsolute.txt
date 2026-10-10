@@ -1,0 +1,16 @@
+C:\Users\UNIFRANZ-FEXCO\Desktop\progtra\PORTAFOLIOPROGRAMACIONFUNDAMENTAL\excepiones\excepiones\obj\Debug\net10.0\excepiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIFRANZ-FEXCO\Desktop\progtra\PORTAFOLIOPROGRAMACIONFUNDAMENTAL\excepiones\excepiones\obj\Debug\net10.0\excepiones.AssemblyInfoInputs.cache
+C:\Users\UNIFRANZ-FEXCO\Desktop\progtra\PORTAFOLIOPROGRAMACIONFUNDAMENTAL\excepiones\excepiones\obj\Debug\net10.0\excepiones.AssemblyInfo.cs
+C:\Users\UNIFRANZ-FEXCO\Desktop\progtra\PORTAFOLIOPROGRAMACIONFUNDAMENTAL\excepiones\excepiones\obj\Debug\net10.0\excepiones.csproj.CoreCompileInputs.cache
+C:\Users\UNIFRANZ-FEXCO\Desktop\progtra\PORTAFOLIOPROGRAMACIONFUNDAMENTAL\excepiones\excepiones\obj\Debug\net10.0\excepiones.sourcelink.json
+C:\Users\UNIFRANZ-FEXCO\Desktop\progtra\PORTAFOLIOPROGRAMACIONFUNDAMENTAL\excepiones\excepiones\bin\Debug\net10.0\excepiones.exe
+C:\Users\UNIFRANZ-FEXCO\Desktop\progtra\PORTAFOLIOPROGRAMACIONFUNDAMENTAL\excepiones\excepiones\bin\Debug\net10.0\excepiones.deps.json
+C:\Users\UNIFRANZ-FEXCO\Desktop\progtra\PORTAFOLIOPROGRAMACIONFUNDAMENTAL\excepiones\excepiones\bin\Debug\net10.0\excepiones.runtimeconfig.json
+C:\Users\UNIFRANZ-FEXCO\Desktop\progtra\PORTAFOLIOPROGRAMACIONFUNDAMENTAL\excepiones\excepiones\bin\Debug\net10.0\excepiones.dll
+C:\Users\UNIFRANZ-FEXCO\Desktop\progtra\PORTAFOLIOPROGRAMACIONFUNDAMENTAL\excepiones\excepiones\bin\Debug\net10.0\excepiones.pdb
+C:\Users\UNIFRANZ-FEXCO\Desktop\progtra\PORTAFOLIOPROGRAMACIONFUNDAMENTAL\excepiones\excepiones\obj\Debug\net10.0\excepiones.dll
+C:\Users\UNIFRANZ-FEXCO\Desktop\progtra\PORTAFOLIOPROGRAMACIONFUNDAMENTAL\excepiones\excepiones\obj\Debug\net10.0\refint\excepiones.dll
+C:\Users\UNIFRANZ-FEXCO\Desktop\progtra\PORTAFOLIOPROGRAMACIONFUNDAMENTAL\excepiones\excepiones\obj\Debug\net10.0\excepiones.pdb
+C:\Users\UNIFRANZ-FEXCO\Desktop\progtra\PORTAFOLIOPROGRAMACIONFUNDAMENTAL\excepiones\excepiones\obj\Debug\net10.0\excepiones.genruntimeconfig.cache
+C:\Users\UNIFRANZ-FEXCO\Desktop\progtra\PORTAFOLIOPROGRAMACIONFUNDAMENTAL\excepiones\excepiones\obj\Debug\net10.0\ref\excepiones.dll
+C:\Users\UNIFRANZ-FEXCO\Desktop\progtra\PORTAFOLIOPROGRAMACIONFUNDAMENTAL\excepiones\excepiones\obj\Debug\net10.0\excepiones.csproj.Up2Date
